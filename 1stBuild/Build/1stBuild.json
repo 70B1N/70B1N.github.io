@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "First Build",
-"dataUrl": "1st Build.data.unityweb",
-"wasmCodeUrl": "1st Build.wasm.code.unityweb",
-"wasmFrameworkUrl": "1st Build.wasm.framework.unityweb",
+"dataUrl": "1stBuild.data.unityweb",
+"wasmCodeUrl": "1stBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "1stBuild.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
